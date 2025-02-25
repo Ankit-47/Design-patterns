@@ -1,4 +1,4 @@
-# Design Patterns in Python
+# Design Patterns in Software Development Architecture
 
 This repository demonstrates the implementation of four essential design patterns in Python: **Singleton**, **Factory**, **Strategy**, and **Observer**. These patterns are commonly used in software development to solve recurring design problems. In this repository, you'll find easy-to-understand explanations for each pattern.
 
